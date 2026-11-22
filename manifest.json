@@ -1,0 +1,9 @@
+{
+  "name": "Regen hier",
+  "short_name": "Regen hier",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef2f4",
+  "theme_color": "#1f6fd1",
+  "icons": [{ "src": "icon.png", "sizes": "180x180", "type": "image/png" }]
+}
